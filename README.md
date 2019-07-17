@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is an application that takes in a word and rplaces that word with another word from the user._
+_This is an application that takes in a word and replaces that word with another word from the user._
 
 ## Setup/Installation
 
